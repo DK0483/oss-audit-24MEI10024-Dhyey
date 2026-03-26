@@ -4,26 +4,26 @@
 
 ---
 
-## 👤 Student Details
+##  Student Details
 
 | Field | Details |
 |------|--------|
 | Name | Dhyey Kabra |
-| Registration Number | 24MEI10024 |
+| Reg No. | 24MEI10024 |
 
 ---
 
-## 📋 About Project
+##  About Project
 
 This project is an audit of VLC Media Player focusing on:
-- Open source concepts  
-- GPL license  
-- Linux system usage  
-- Shell scripting  
+- Open source concepts
+- GPL license
+- Linux system usage
+- Shell scripting
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 - README.md
 - project_script1.sh
@@ -36,44 +36,44 @@ This project is an audit of VLC Media Player focusing on:
 
 ---
 
-## 🖥️ Shell Scripts — Output
+## Shell Scripts — Output
 
-### 🔹 Script 1 — System Information
+###  Script 1 — System Information
 
 **Output:**
-![Script 1](screenshots/project_script1_output)
+![Script 1](screenshots/project_script1_output.png)
 
 ---
 
-### 🔹 Script 2 — Package Checker
+###  Script 2 — Package Checker
 
 **Output:**
-![Script 2](screenshots/project_script2_output)
+![Script 2](screenshots/project_script2_output.png)
 
 ---
 
-### 🔹 Script 3 — Directory Audit
+###  Script 3 — Directory Audit
 
 **Output:**
-![Script 3](screenshots/project_script3_output)
+![Script 3](screenshots/project_script3_output.png)
 
 ---
 
-### 🔹 Script 4 — Log Analyzer
+###  Script 4 — Log Analyzer
 
 **Output:**
-![Script 4](screenshots/project_script4_output)
+![Script 4](screenshots/project_script4_output.png)
 
 ---
 
-### 🔹 Script 5 — Manifesto Generator
+###  Script 5 — Manifesto Generator
 
 **Output:**
-![Script 5](screenshots/project_script5_output)
+![Script 5](screenshots/project_script5_output.png)
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 ```bash
 chmod +x project_script*.sh
